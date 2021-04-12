@@ -1,0 +1,18 @@
+Pagina del gimnasio
+
+paginas:L
+ inicio
+    horarios de las clases dirigidas
+
+ instalaciones:
+    fotos del gimnasiolista de     equipamiento
+ 
+ Precios:
+    Precio segun edad
+    Precio segun horarios
+
+ Contacto:
+
+    Formulario de contacto
+
+academy@nategentile.com
